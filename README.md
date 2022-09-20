@@ -14,7 +14,7 @@ mezmer420 = {
 		Linguistic: [
 		        "English",
 			"Spanish", // probably not enough to save my life
-			"Tagalog", // can mostly understand; can't speak
+			"Tagalog", // can mostly understand; can barely speak
 		],
 		Programming: [
 			"JavaScript", // lol barely
