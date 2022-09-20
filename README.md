@@ -11,7 +11,11 @@ mezmer420 = {
 	Age: 17,
 	Job: null,
 	Languages: {
-		Linguistic: ["English"],
+		Linguistic: [
+		        "English",
+			"Spanish", // probably not enough to save my life
+			"Tagalog", // can mostly understand; can't speak
+		],
 		Programming: [
 			"JavaScript", // lol barely
 			"HTML", // for legal reasons that's a joke
