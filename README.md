@@ -8,6 +8,7 @@ Well, you're still reading. Here's a quick rundown of me...
 mezmer420 = {
 	RealName: require("./know/me/irl"),
 	Birthday: new Date("2005-09-08T0:00:00"),
+	Gender: "Male",
 	Age: 17,
 	Job: null,
 	Languages: {
