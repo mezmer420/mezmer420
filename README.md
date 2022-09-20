@@ -34,10 +34,11 @@ mezmer420 = {
 		"droning",
 	],
 	Passions: [
-		"Technology",
+		"Technology (in general)",
 		"Military tech/weapons",
 		"Medical science",
-		"Aviation",
+		"Aviation/astronomy",
+		"My Litle Pony",
 		"Sleeping",
 	],
 }
