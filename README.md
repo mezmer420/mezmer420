@@ -9,7 +9,6 @@ mezmer420 = {
 	RealName: require("./know/me/irl"),
 	Birthday: new Date("2005-09-08T0:00:00"),
 	Gender: "Male",
-	Age: 17,
 	Job: null,
 	Languages: {
 		Linguistic: [
@@ -30,12 +29,10 @@ mezmer420 = {
 		"working on my Discord bot (when i'm in the mood..)",
 		"gaming",
 		"watching YouTube",
-		"getting murdered by AP Chemistry homework",
 		"sleeping",
-		"droning",
+		"flying drones",
 	],
 	Passions: [
-		"Technology (in general)",
 		"Military tech/weapons",
 		"Medical science",
 		"Aviation/astronomy",
