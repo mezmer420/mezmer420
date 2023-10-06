@@ -2,7 +2,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/527285622809952256)](https://discord.com/users/527285622809952256)
 
-Well, you're still reading. Here's a quick rundown of me...
+Well, you're still reading. Here's a rundown of me...
 
 ```javascript
 mezmer420 = {
@@ -13,11 +13,12 @@ mezmer420 = {
 	Languages: {
 		Linguistic: [
 		        "English",
-			"Spanish", // probably not enough to save my life
+			"Spanish", // not enough to save my life
 			"Tagalog", // can mostly understand; can barely speak
 		],
 		Programming: [
-			"JavaScript", // lol barely
+			"JavaScript",
+			"Python" // basics for now
 			"HTML", // for legal reasons that's a joke
 		],
 	},
